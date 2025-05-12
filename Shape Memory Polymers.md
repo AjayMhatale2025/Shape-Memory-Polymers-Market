@@ -2,7 +2,7 @@
 
 The global [shape memory polymers (SMPs) market](https://www.transparencymarketresearch.com/shape-memory-polymers-market-report.html)—valued at **US$ 1.3 billion in 2024**—is poised for exceptional expansion, forecasted to surge at a **23.5 % CAGR through 2035**. As industries across healthcare, automotive, aerospace and textiles embrace “intelligent” materials, SMPs are rapidly transitioning from niche innovations to mainstream components of tomorrow’s products.
 
----
+--
 
 ## Why SMPs Matter Today
 
